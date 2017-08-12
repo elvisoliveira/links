@@ -6,4 +6,5 @@
 - [What is a Microservice? { author: @aditichaudhry92 }.](https://twitter.com/statuses/892732151346712576)
 - [Shoelace.css is a starter kit. Bootstrap users will find it familiar, yet refreshing.](https://twitter.com/statuses/892518333647659011)
 - [A Quick Practical Example of JavaScript’s Reduce Function.](https://twitter.com/statuses/892456433635254273)
+- [How to Get The Most Out of the JavaScript Console.](https://twitter.com/statuses/875255555262214144)
 - [Hardbin: secure encrypted pastebin.](https://twitter.com/statuses/866972459442085889)
