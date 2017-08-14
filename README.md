@@ -1,4 +1,6 @@
 # References
+- [JPNG.svg: Combine The Transparency of A PNG with the Compression of a JPEG -.](https://twitter.com/statuses/896899676997382144)
+- [How to avoid frustration studying Computer Science { author: @daniel_swdev }.](https://twitter.com/statuses/896885344611598337)
 - [Neutrino combines the power of Webpack with the simplicity of presets.](https://twitter.com/statuses/896733087983435776)
 - [Css Perspective" by Adriano Interaminense.](https://twitter.com/statuses/896573055169773569)
 - [Every human being is a potential coder" #LiveForTheCode.](https://twitter.com/statuses/895831570811977728)
@@ -7,5 +9,3 @@
 - [If you see really nice API docs, there's a good chance it's based on Slate.](https://twitter.com/statuses/892743991342624768)
 - [What is a Microservice? { author: @aditichaudhry92 }.](https://twitter.com/statuses/892732151346712576)
 - [Shoelace.css is a starter kit. Bootstrap users will find it familiar, yet refreshing.](https://twitter.com/statuses/892518333647659011)
-- [A Quick Practical Example of JavaScript’s Reduce Function.](https://twitter.com/statuses/892456433635254273)
-- [What does a well-documented CSS codebase look like?.](https://twitter.com/statuses/878453377641963520)
