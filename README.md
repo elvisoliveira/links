@@ -1,4 +1,5 @@
 # References
+- [Tava indo tudo bem, até o ze peruca pedir pro prof repetir.](https://twitter.com/statuses/897813470657347586)
 - [JPNG.svg: Combine The Transparency of A PNG with the Compression of a JPEG -.](https://twitter.com/statuses/896899676997382144)
 - [How to avoid frustration studying Computer Science { author: @daniel_swdev }.](https://twitter.com/statuses/896885344611598337)
 - [Neutrino combines the power of Webpack with the simplicity of presets.](https://twitter.com/statuses/896733087983435776)
@@ -8,4 +9,3 @@
 - [How I Built a Wind Map with WebGL.](https://twitter.com/statuses/893062162033364992)
 - [If you see really nice API docs, there's a good chance it's based on Slate.](https://twitter.com/statuses/892743991342624768)
 - [What is a Microservice? { author: @aditichaudhry92 }.](https://twitter.com/statuses/892732151346712576)
-- [Shoelace.css is a starter kit. Bootstrap users will find it familiar, yet refreshing.](https://twitter.com/statuses/892518333647659011)
