@@ -1,4 +1,5 @@
 # References
+- [The Art of Defensive Programming { author: @0x13a }.](https://twitter.com/statuses/901565439112876032)
 - [Creating HTML and CSS Presentations with WebSlides.](https://twitter.com/statuses/900885954952650752)
 - [G for Git.](https://twitter.com/statuses/899829226546888704)
 - [JPNG.svg: Combine The Transparency of A PNG with the Compression of a JPEG -.](https://twitter.com/statuses/896899676997382144)
@@ -8,4 +9,3 @@
 - [Every human being is a potential coder" #LiveForTheCode.](https://twitter.com/statuses/895831570811977728)
 - [Getting started with React Native { author: @taiwo_xyz }.](https://twitter.com/statuses/894711005967679488)
 - [How I Built a Wind Map with WebGL.](https://twitter.com/statuses/893062162033364992)
-- [If you see really nice API docs, there's a good chance it's based on Slate.](https://twitter.com/statuses/892743991342624768)
