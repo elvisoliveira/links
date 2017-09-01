@@ -1,4 +1,7 @@
 # References
+- [Solve Your Specificity Headaches With CSS Modules.](https://twitter.com/statuses/903607387394854912)
+- [Introducing the Extension Compatibility Tester.](https://twitter.com/statuses/903589347232022529)
+- [Vivify: A Simple CSS Animation Library -.](https://twitter.com/statuses/903571386848993280)
 - [Rendertron: A Dockerized, Headless Chrome Rendering Solution -.](https://twitter.com/statuses/903422692182896640)
 - [Where in the World is Mobile Development?.](https://twitter.com/statuses/902983011528056838)
 - [A Super Quick Way to Try Out CSS Grid.](https://twitter.com/statuses/902982004165226497)
@@ -6,6 +9,3 @@
 - [How to share files between Windows and Linux.](https://twitter.com/statuses/902626385310703619)
 - [The Art of Defensive Programming { author: @0x13a }.](https://twitter.com/statuses/901565439112876032)
 - [Creating HTML and CSS Presentations with WebSlides.](https://twitter.com/statuses/900885954952650752)
-- [G for Git.](https://twitter.com/statuses/899829226546888704)
-- [JPNG.svg: Combine The Transparency of A PNG with the Compression of a JPEG -.](https://twitter.com/statuses/896899676997382144)
-- [How to avoid frustration studying Computer Science { author: @daniel_swdev }.](https://twitter.com/statuses/896885344611598337)
