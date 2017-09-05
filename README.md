@@ -1,4 +1,5 @@
 # References
+- [Includes() vs indexOf() in JavaScript { author: @jsobinna }.](https://twitter.com/statuses/904857884483346435)
 - [Solve Your Specificity Headaches With CSS Modules.](https://twitter.com/statuses/903607387394854912)
 - [Introducing the Extension Compatibility Tester.](https://twitter.com/statuses/903589347232022529)
 - [Vivify: A Simple CSS Animation Library -.](https://twitter.com/statuses/903571386848993280)
@@ -8,4 +9,3 @@
 - [Reverse Element Order with CSS Flexbox.](https://twitter.com/statuses/902975538087723013)
 - [How to share files between Windows and Linux.](https://twitter.com/statuses/902626385310703619)
 - [The Art of Defensive Programming { author: @0x13a }.](https://twitter.com/statuses/901565439112876032)
-- [Creating HTML and CSS Presentations with WebSlides.](https://twitter.com/statuses/900885954952650752)
