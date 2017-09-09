@@ -1,4 +1,5 @@
 # References
+- [How to Get Started with Open Source { author: @samjarman }.](https://twitter.com/statuses/906307416102461440)
 - [Typekit Now Serving Web Fonts With No JavaScript Required.](https://twitter.com/statuses/905597006755880961)
 - [Includes() vs indexOf() in JavaScript { author: @jsobinna }.](https://twitter.com/statuses/904857884483346435)
 - [Solve Your Specificity Headaches With CSS Modules.](https://twitter.com/statuses/903607387394854912)
@@ -8,4 +9,3 @@
 - [Where in the World is Mobile Development?.](https://twitter.com/statuses/902983011528056838)
 - [A Super Quick Way to Try Out CSS Grid.](https://twitter.com/statuses/902982004165226497)
 - [Reverse Element Order with CSS Flexbox.](https://twitter.com/statuses/902975538087723013)
-- [How to share files between Windows and Linux.](https://twitter.com/statuses/902626385310703619)
