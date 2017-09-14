@@ -1,5 +1,6 @@
 # References
 - [Cross Platform Development Without JavaScript { author: @lemuelcco }.](https://twitter.com/statuses/908058213647400960)
+- [Stencil: A tool for building modern web components —.](https://twitter.com/statuses/908056444188192768)
 - [Explain Rust like I'm five.](https://twitter.com/statuses/907952466729336832)
 - [Getting started with Elm { author: @leojpod }.](https://twitter.com/statuses/907695836418715653)
 - [How to Get Started with Open Source { author: @samjarman }.](https://twitter.com/statuses/906307416102461440)
