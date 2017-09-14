@@ -1,4 +1,5 @@
 # References
+- [How to code a satellite algorithm and cook paella from scratch { author: @vickylaiio }.](https://twitter.com/statuses/908294288320147457)
 - [Cross Platform Development Without JavaScript { author: @lemuelcco }.](https://twitter.com/statuses/908058213647400960)
 - [Stencil: A tool for building modern web components —.](https://twitter.com/statuses/908056444188192768)
 - [Explain Rust like I'm five.](https://twitter.com/statuses/907952466729336832)
