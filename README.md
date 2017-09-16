@@ -1,4 +1,6 @@
 # References
+- [Don’t document your code. Code your documentation. { author: @raddikx }.](https://twitter.com/statuses/909064331664482306)
+- [uncss: Find Unused CSS by @davidwalshblog.](https://twitter.com/statuses/909021673038413825)
 - [src2png: Turn Source Code Into Beautiful Syntax-Highlighted Images -.](https://twitter.com/statuses/908615371351093249)
 - [A more efficient developer write programs for himself { author: @DanLebrero }.](https://twitter.com/statuses/908481788317663232)
 - [How to code a satellite algorithm and cook paella from scratch { author: @vickylaiio }.](https://twitter.com/statuses/908294288320147457)
