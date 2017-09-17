@@ -1,4 +1,5 @@
 # References
+- [A framework for learning for programmers { author: @jjude }.](https://twitter.com/statuses/909073144220184576)
 - [Don’t document your code. Code your documentation. { author: @raddikx }.](https://twitter.com/statuses/909064331664482306)
 - [uncss: Find Unused CSS by @davidwalshblog.](https://twitter.com/statuses/909021673038413825)
 - [src2png: Turn Source Code Into Beautiful Syntax-Highlighted Images -.](https://twitter.com/statuses/908615371351093249)
