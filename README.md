@@ -1,4 +1,5 @@
 # References
+- [Front End Javascript, Angular, React, etc, what and where to start with?.](https://twitter.com/statuses/909893057578971136)
 - [JSLinux : Run Linux or other Operating Systems in your browser !.](https://twitter.com/statuses/909795464479834113)
 - [🐱 New @CodePen - CSS: Cat Swinging on String, based on a @dribbble by @galgalshir. This one was fun to make!….](https://twitter.com/statuses/909432676939173889)
 - [A framework for learning for programmers { author: @jjude }.](https://twitter.com/statuses/909073144220184576)
