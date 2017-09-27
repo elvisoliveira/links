@@ -1,4 +1,5 @@
 # References
+- [The art of deleting code { author: @mariosangiorgio }.](https://twitter.com/statuses/912981189824253953)
 - [CSS seems like a natural fit for VR.](https://twitter.com/statuses/912693253962526720)
 - [npm install -g shout -- best irc client.](https://twitter.com/statuses/912304976004820992)
 - [How People Perceive Lossy Image Quality: A Study.](https://twitter.com/statuses/911364497729818624)
