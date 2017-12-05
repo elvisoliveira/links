@@ -1,4 +1,5 @@
 # References
+- [Software as a Tiny House "Software needs to have a sense of space and beauty in the both the interface and in the….](https://twitter.com/statuses/937875424838868992)
 - [How to copy files from one machine to another using ssh.](https://twitter.com/statuses/937863494648594432)
 - [High Contrast versus Inverted Colors :: https://t.co/yDCX88ojyS "If a page already has poor contrast, [inverting]….](https://twitter.com/statuses/937849015558815745)
 - [The best programs are the ones written when the programmer is supposed to be working on something else." - Melinda Varian.](https://twitter.com/statuses/937837423471579136)
