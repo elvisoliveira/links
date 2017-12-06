@@ -1,4 +1,6 @@
 # References
+- [Dart for Beginners { author: @jake_varness }.](https://twitter.com/statuses/938387557649403904)
+- [7 Reasons You Should Be Using PostgreSQL 1. Free 2. Easy Setup 3. Powerful ... { author: @lefebvre }.](https://twitter.com/statuses/938370689769377793)
 - [Software as a Tiny House "Software needs to have a sense of space and beauty in the both the interface and in the….](https://twitter.com/statuses/937875424838868992)
 - [How to copy files from one machine to another using ssh.](https://twitter.com/statuses/937863494648594432)
 - [High Contrast versus Inverted Colors :: https://t.co/yDCX88ojyS "If a page already has poor contrast, [inverting]….](https://twitter.com/statuses/937849015558815745)
