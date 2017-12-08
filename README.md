@@ -1,4 +1,5 @@
 # References
+- [Introduction to React { author: @aurelkurtula }.](https://twitter.com/statuses/939095461369085954)
 - [Facial Recognition in JavaScript using Tracking.js "I decided to use Tracking.js because the documentation was rea….](https://twitter.com/statuses/938600211160666113)
 - [Dart for Beginners { author: @jake_varness }.](https://twitter.com/statuses/938387557649403904)
 - [7 Reasons You Should Be Using PostgreSQL 1. Free 2. Easy Setup 3. Powerful ... { author: @lefebvre }.](https://twitter.com/statuses/938370689769377793)
