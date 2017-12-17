@@ -1,4 +1,6 @@
 # References
+- [Stop the pain, upgrade to PHP 7 { author: @adamculp }.](https://twitter.com/statuses/942167962907238401)
+- [Why we shouldn't use jQuery anymore ?.](https://twitter.com/statuses/942152606230765568)
 - [What a developer can do to enhance User Experience? "We noticed that by adopting these points we made a positive i….](https://twitter.com/statuses/941435884595044353)
 - [Introduction to React { author: @aurelkurtula }.](https://twitter.com/statuses/939095461369085954)
 - [Facial Recognition in JavaScript using Tracking.js "I decided to use Tracking.js because the documentation was rea….](https://twitter.com/statuses/938600211160666113)
