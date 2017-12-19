@@ -1,4 +1,5 @@
 # References
+- [Eliminating delays on ESC in vim and zsh.](https://twitter.com/statuses/943118638940327936)
 - [Stop the pain, upgrade to PHP 7 { author: @adamculp }.](https://twitter.com/statuses/942167962907238401)
 - [Why we shouldn't use jQuery anymore ?.](https://twitter.com/statuses/942152606230765568)
 - [What a developer can do to enhance User Experience? "We noticed that by adopting these points we made a positive i….](https://twitter.com/statuses/941435884595044353)
