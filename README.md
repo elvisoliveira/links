@@ -1,4 +1,5 @@
 # My Link Collection
+Some useful tweets for programmers.
 ## Jquery
 - [Why we shouldn't use jQuery anymore ?.](https://twitter.com/statuses/942152606230765568)
 ## PHP
