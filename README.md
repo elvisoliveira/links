@@ -1,4 +1,5 @@
-# References\n## Jquery
+# My Link Collection
+## Jquery
 - [Why we shouldn't use jQuery anymore ?.](https://twitter.com/statuses/942152606230765568)
 ## PHP
 - [Stop the pain, upgrade to PHP 7 { author: @adamculp }.](https://twitter.com/statuses/942167962907238401)
