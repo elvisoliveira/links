@@ -1,62 +1,9 @@
 # My Link Collection
 Some useful tweets for programmers.
-## Jquery
-- [Why we shouldn't use jQuery anymore ?.](https://twitter.com/statuses/942152606230765568)
-## PHP
-- [Stop the pain, upgrade to PHP 7 { author: @adamculp }.](https://twitter.com/statuses/942167962907238401)
-## Angular
-- [Front End Javascript, Angular, React, etc, what and where to start with?.](https://twitter.com/statuses/909893057578971136)
 ## API
 - [If you see really nice API docs, there's a good chance it's based on Slate.](https://twitter.com/statuses/892743991342624768)
-## SSH
-- [How to copy files from one machine to another using ssh.](https://twitter.com/statuses/937863494648594432)
-## SQL
-- [7 Reasons You Should Be Using PostgreSQL 1. Free 2. Easy Setup 3. Powerful ... { author: @lefebvre }.](https://twitter.com/statuses/938370689769377793)
-## Regex
-- [(Don't Fear) The Regex: A Practical Introduction to Regular Expressions { author: @hawkinjs }.](https://twitter.com/statuses/926932587515441152)
-## Vim
-- [Eliminating delays on ESC in vim and zsh.](https://twitter.com/statuses/943118638940327936)
-## Web Components
-- [Stencil: A tool for building modern web components —.](https://twitter.com/statuses/908056444188192768)
-## ZSH
-- [Eliminating delays on ESC in vim and zsh.](https://twitter.com/statuses/943118638940327936)
-## WebGL
-- [How I Built a Wind Map with WebGL.](https://twitter.com/statuses/893062162033364992)
-## Windows
-- [How to share files between Windows and Linux.](https://twitter.com/statuses/902626385310703619)
-## WebPack
-- [Neutrino combines the power of Webpack with the simplicity of presets.](https://twitter.com/statuses/896733087983435776)
-## Git
-- [G for Git.](https://twitter.com/statuses/899829226546888704)
-## Docker
-- [Rendertron: A Dockerized, Headless Chrome Rendering Solution -.](https://twitter.com/statuses/903422692182896640)
-## Mobile
-- [Where in the World is Mobile Development?.](https://twitter.com/statuses/902983011528056838)
-## Open Source
-- [How to Get Started with Open Source { author: @samjarman }.](https://twitter.com/statuses/906307416102461440)
-## Test
-- [Introducing the Extension Compatibility Tester.](https://twitter.com/statuses/903589347232022529)
-## NPM
-- [npm install -g shout -- best irc client.](https://twitter.com/statuses/912304976004820992)
-## SVG
-- [JPNG.svg: Combine The Transparency of A PNG with the Compression of a JPEG -.](https://twitter.com/statuses/896899676997382144)
-- [Building Animated SVG Banners by @toddhgardner @trackjs.](https://twitter.com/statuses/861597357200355328)
-## Linux
-- [JSLinux : Run Linux or other Operating Systems in your browser !.](https://twitter.com/statuses/909795464479834113)
-- [How to share files between Windows and Linux.](https://twitter.com/statuses/902626385310703619)
-## React
-- [Introduction to React { author: @aurelkurtula }.](https://twitter.com/statuses/939095461369085954)
+## Angular
 - [Front End Javascript, Angular, React, etc, what and where to start with?.](https://twitter.com/statuses/909893057578971136)
-- [Getting started with React Native { author: @taiwo_xyz }.](https://twitter.com/statuses/894711005967679488)
-## JavaScript
-- [Facial Recognition in JavaScript using Tracking.js "I decided to use Tracking.js because the documentation was rea….](https://twitter.com/statuses/938600211160666113)
-- [Using JavaScript for Speech Recognition in the Browser.](https://twitter.com/statuses/913207136653660165)
-- [Front End Javascript, Angular, React, etc, what and where to start with?.](https://twitter.com/statuses/909893057578971136)
-- [Cross Platform Development Without JavaScript { author: @lemuelcco }.](https://twitter.com/statuses/908058213647400960)
-- [Typekit Now Serving Web Fonts With No JavaScript Required.](https://twitter.com/statuses/905597006755880961)
-- [Includes() vs indexOf() in JavaScript { author: @jsobinna }.](https://twitter.com/statuses/904857884483346435)
-- [A Quick Practical Example of JavaScript’s Reduce Function.](https://twitter.com/statuses/892456433635254273)
-- [How to Get The Most Out of the JavaScript Console.](https://twitter.com/statuses/875255555262214144)
 ## CSS
 - [CSS seems like a natural fit for VR.](https://twitter.com/statuses/912693253962526720)
 - [🐱 New @CodePen - CSS: Cat Swinging on String, based on a @dribbble by @galgalshir. This one was fun to make!….](https://twitter.com/statuses/909432676939173889)
@@ -69,6 +16,47 @@ Some useful tweets for programmers.
 - [Css Perspective" by Adriano Interaminense.](https://twitter.com/statuses/896573055169773569)
 - [Shoelace.css is a starter kit. Bootstrap users will find it familiar, yet refreshing.](https://twitter.com/statuses/892518333647659011)
 - [What does a well-documented CSS codebase look like?.](https://twitter.com/statuses/878453377641963520)
+## Docker
+- [Rendertron: A Dockerized, Headless Chrome Rendering Solution -.](https://twitter.com/statuses/903422692182896640)
+## Git
+- [G for Git.](https://twitter.com/statuses/899829226546888704)
+## JavaScript
+- [Facial Recognition in JavaScript using Tracking.js "I decided to use Tracking.js because the documentation was rea….](https://twitter.com/statuses/938600211160666113)
+- [Using JavaScript for Speech Recognition in the Browser.](https://twitter.com/statuses/913207136653660165)
+- [Front End Javascript, Angular, React, etc, what and where to start with?.](https://twitter.com/statuses/909893057578971136)
+- [Cross Platform Development Without JavaScript { author: @lemuelcco }.](https://twitter.com/statuses/908058213647400960)
+- [Typekit Now Serving Web Fonts With No JavaScript Required.](https://twitter.com/statuses/905597006755880961)
+- [Includes() vs indexOf() in JavaScript { author: @jsobinna }.](https://twitter.com/statuses/904857884483346435)
+- [A Quick Practical Example of JavaScript’s Reduce Function.](https://twitter.com/statuses/892456433635254273)
+- [How to Get The Most Out of the JavaScript Console.](https://twitter.com/statuses/875255555262214144)
+## Jquery
+- [Why we shouldn't use jQuery anymore ?.](https://twitter.com/statuses/942152606230765568)
+## Linux
+- [JSLinux : Run Linux or other Operating Systems in your browser !.](https://twitter.com/statuses/909795464479834113)
+- [How to share files between Windows and Linux.](https://twitter.com/statuses/902626385310703619)
+## Mobile
+- [Where in the World is Mobile Development?.](https://twitter.com/statuses/902983011528056838)
+## NPM
+- [npm install -g shout -- best irc client.](https://twitter.com/statuses/912304976004820992)
+## Open Source
+- [How to Get Started with Open Source { author: @samjarman }.](https://twitter.com/statuses/906307416102461440)
+## PHP
+- [Stop the pain, upgrade to PHP 7 { author: @adamculp }.](https://twitter.com/statuses/942167962907238401)
+## React
+- [Introduction to React { author: @aurelkurtula }.](https://twitter.com/statuses/939095461369085954)
+- [Front End Javascript, Angular, React, etc, what and where to start with?.](https://twitter.com/statuses/909893057578971136)
+- [Getting started with React Native { author: @taiwo_xyz }.](https://twitter.com/statuses/894711005967679488)
+## Regex
+- [(Don't Fear) The Regex: A Practical Introduction to Regular Expressions { author: @hawkinjs }.](https://twitter.com/statuses/926932587515441152)
+## SQL
+- [7 Reasons You Should Be Using PostgreSQL 1. Free 2. Easy Setup 3. Powerful ... { author: @lefebvre }.](https://twitter.com/statuses/938370689769377793)
+## SSH
+- [How to copy files from one machine to another using ssh.](https://twitter.com/statuses/937863494648594432)
+## SVG
+- [JPNG.svg: Combine The Transparency of A PNG with the Compression of a JPEG -.](https://twitter.com/statuses/896899676997382144)
+- [Building Animated SVG Banners by @toddhgardner @trackjs.](https://twitter.com/statuses/861597357200355328)
+## Test
+- [Introducing the Extension Compatibility Tester.](https://twitter.com/statuses/903589347232022529)
 ## Unrelated
 - [What a developer can do to enhance User Experience? "We noticed that by adopting these points we made a positive i….](https://twitter.com/statuses/941435884595044353)
 - [Dart for Beginners { author: @jake_varness }.](https://twitter.com/statuses/938387557649403904)
@@ -96,3 +84,15 @@ Some useful tweets for programmers.
 - [Every human being is a potential coder" #LiveForTheCode.](https://twitter.com/statuses/895831570811977728)
 - [What is a Microservice? { author: @aditichaudhry92 }.](https://twitter.com/statuses/892732151346712576)
 - [Hardbin: secure encrypted pastebin.](https://twitter.com/statuses/866972459442085889)
+## Vim
+- [Eliminating delays on ESC in vim and zsh.](https://twitter.com/statuses/943118638940327936)
+## Web Components
+- [Stencil: A tool for building modern web components —.](https://twitter.com/statuses/908056444188192768)
+## WebGL
+- [How I Built a Wind Map with WebGL.](https://twitter.com/statuses/893062162033364992)
+## WebPack
+- [Neutrino combines the power of Webpack with the simplicity of presets.](https://twitter.com/statuses/896733087983435776)
+## Windows
+- [How to share files between Windows and Linux.](https://twitter.com/statuses/902626385310703619)
+## ZSH
+- [Eliminating delays on ESC in vim and zsh.](https://twitter.com/statuses/943118638940327936)
