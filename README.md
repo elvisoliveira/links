@@ -1,4 +1,4 @@
-## Jquery
+# References\n## Jquery
 - [Why we shouldn't use jQuery anymore ?.](https://twitter.com/statuses/942152606230765568)
 ## PHP
 - [Stop the pain, upgrade to PHP 7 { author: @adamculp }.](https://twitter.com/statuses/942167962907238401)
@@ -74,7 +74,6 @@
 - [High Contrast versus Inverted Colors :: https://t.co/yDCX88ojyS "If a page already has poor contrast, [inverting]….](https://twitter.com/statuses/937849015558815745)
 - [The best programs are the ones written when the programmer is supposed to be working on something else." - Melinda Varian.](https://twitter.com/statuses/937837423471579136)
 - [6 Ways to Start Getting Physically Fit as a Coder 1) Doing Housework 2) Going for a Walk 3) ... { author:….](https://twitter.com/statuses/937057787779182592)
-- [@alex_borges Jesus.](https://twitter.com/statuses/925378425107435522)
 - [Using better CLIs.](https://twitter.com/statuses/916725834056130560)
 - [Native Browser Copy To Clipboard :: https://t.co/8cDv9IrnOu Comes in useful so dang often.](https://twitter.com/statuses/914575590417588224)
 - [The art of deleting code { author: @mariosangiorgio }.](https://twitter.com/statuses/912981189824253953)
