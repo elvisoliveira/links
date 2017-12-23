@@ -57,6 +57,8 @@ Some useful tweets for programmers.
 - [Building Animated SVG Banners by @toddhgardner @trackjs.](https://twitter.com/statuses/861597357200355328)
 ## Test
 - [Introducing the Extension Compatibility Tester.](https://twitter.com/statuses/903589347232022529)
+## Tmux
+- [Setting active and inactive pane colours on tmux.](https://twitter.com/statuses/944643702575726592)
 ## Unrelated
 - [What a developer can do to enhance User Experience? "We noticed that by adopting these points we made a positive i….](https://twitter.com/statuses/941435884595044353)
 - [Dart for Beginners { author: @jake_varness }.](https://twitter.com/statuses/938387557649403904)
