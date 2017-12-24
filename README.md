@@ -60,6 +60,7 @@ Some useful tweets for programmers.
 ## Tmux
 - [Setting active and inactive pane colours on tmux.](https://twitter.com/statuses/944643702575726592)
 ## Unrelated
+- [Copy files to clipboard using command line on OSX.](https://twitter.com/statuses/945071900539129856)
 - [What a developer can do to enhance User Experience? "We noticed that by adopting these points we made a positive i….](https://twitter.com/statuses/941435884595044353)
 - [Dart for Beginners { author: @jake_varness }.](https://twitter.com/statuses/938387557649403904)
 - [Software as a Tiny House "Software needs to have a sense of space and beauty in the both the interface and in the….](https://twitter.com/statuses/937875424838868992)
