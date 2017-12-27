@@ -88,6 +88,8 @@ Some useful tweets for programmers.
 - [What is a Microservice? { author: @aditichaudhry92 }.](https://twitter.com/statuses/892732151346712576)
 - [Hardbin: secure encrypted pastebin.](https://twitter.com/statuses/866972459442085889)
 ## Vim
+- [Delete all lines that contain a particular pattern on Vim.](https://twitter.com/statuses/945987218258186245)
+- [Copy text from Vim to system clipboard.](https://twitter.com/statuses/945985044375535616)
 - [Eliminating delays on ESC in vim and zsh.](https://twitter.com/statuses/943118638940327936)
 ## Web Components
 - [Stencil: A tool for building modern web components —.](https://twitter.com/statuses/908056444188192768)
