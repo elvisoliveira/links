@@ -60,6 +60,7 @@ Some useful tweets for programmers.
 ## Tmux
 - [Setting active and inactive pane colours on tmux.](https://twitter.com/statuses/944643702575726592)
 ## Unrelated
+- [How to mirror the content of a given remote FTP directory into the given local directory.](https://twitter.com/statuses/946475847036342272)
 - [Copy files to clipboard using command line on OSX.](https://twitter.com/statuses/945071900539129856)
 - [What a developer can do to enhance User Experience? "We noticed that by adopting these points we made a positive i….](https://twitter.com/statuses/941435884595044353)
 - [Dart for Beginners { author: @jake_varness }.](https://twitter.com/statuses/938387557649403904)
