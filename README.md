@@ -43,6 +43,7 @@ Some useful tweets for programmers.
 ## PHP
 - [Stop the pain, upgrade to PHP 7 { author: @adamculp }.](https://twitter.com/statuses/942167962907238401)
 ## React
+- [11 React Examples.](https://twitter.com/statuses/947950816039788545)
 - [Introduction to React { author: @aurelkurtula }.](https://twitter.com/statuses/939095461369085954)
 - [Front End Javascript, Angular, React, etc, what and where to start with?.](https://twitter.com/statuses/909893057578971136)
 - [Getting started with React Native { author: @taiwo_xyz }.](https://twitter.com/statuses/894711005967679488)
