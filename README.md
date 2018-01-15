@@ -32,6 +32,7 @@ Some useful tweets for programmers.
 ## Jquery
 - [Why we shouldn't use jQuery anymore ?.](https://twitter.com/statuses/942152606230765568)
 ## Linux
+- [Learn how to install, setup and create your first container on a CentOS or RHEL 7 server. #linux #sysadmin #devops….](https://twitter.com/statuses/952632054197338112)
 - [JSLinux : Run Linux or other Operating Systems in your browser !.](https://twitter.com/statuses/909795464479834113)
 - [How to share files between Windows and Linux.](https://twitter.com/statuses/902626385310703619)
 ## Mobile
