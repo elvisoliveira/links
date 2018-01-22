@@ -22,6 +22,7 @@ Some useful tweets for programmers.
 ## Git
 - [G for Git.](https://twitter.com/statuses/899829226546888704)
 ## JavaScript
+- [Functional Programming in JavaScript with Hyperapp "Hyperapp is everything that I wanted Elm to be -- it's easy to….](https://twitter.com/statuses/955231541835239424)
 - [Facial Recognition in JavaScript using Tracking.js "I decided to use Tracking.js because the documentation was rea….](https://twitter.com/statuses/938600211160666113)
 - [Using JavaScript for Speech Recognition in the Browser.](https://twitter.com/statuses/913207136653660165)
 - [Front End Javascript, Angular, React, etc, what and where to start with?.](https://twitter.com/statuses/909893057578971136)
