@@ -68,6 +68,7 @@ Some useful tweets for programmers.
 ## Tmux
 - [Setting active and inactive pane colours on tmux.](https://twitter.com/statuses/944643702575726592)
 ## Unrelated
+- [Vi-mode in fish shell on OSX.](https://twitter.com/statuses/956488513469534209)
 - [Fixing Chrome 58+ [missing_subjectAltName] with openssl when using self signed certificates.](https://twitter.com/statuses/955779553137512448)
 - [Animated iPhone 6 UI Tutorial "I’m back with another beginner friendly tutorial where we’ll be creating an animate….](https://twitter.com/statuses/954851536856903680)
 - [The importance of timeouts "Timeouts are not an exciting thing to talk about... That is an enormous shame since, i….](https://twitter.com/statuses/948812241670897664)
