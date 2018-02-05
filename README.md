@@ -20,6 +20,7 @@ Some useful tweets for programmers.
 ## Docker
 - [Rendertron: A Dockerized, Headless Chrome Rendering Solution -.](https://twitter.com/statuses/903422692182896640)
 ## Git
+- [Let NERDTree respect .gitignore.](https://twitter.com/statuses/960464512884400128)
 - [G for Git.](https://twitter.com/statuses/899829226546888704)
 ## JavaScript
 - [Functional Programming in JavaScript with Hyperapp "Hyperapp is everything that I wanted Elm to be -- it's easy to….](https://twitter.com/statuses/955231541835239424)
