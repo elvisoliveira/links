@@ -104,6 +104,7 @@ Some useful tweets for programmers.
 - [What is a Microservice? { author: @aditichaudhry92 }.](https://twitter.com/statuses/892732151346712576)
 - [Hardbin: secure encrypted pastebin.](https://twitter.com/statuses/866972459442085889)
 ## Vim
+- [How to paste a column of text to the end of irregular length linesin Vim.](https://twitter.com/statuses/963712372392255488)
 - [Copy selection to OS X system clipboard in Vim.](https://twitter.com/statuses/950364495548944384)
 - [Delete all lines that contain a particular pattern on Vim.](https://twitter.com/statuses/945987218258186245)
 - [Copy text from Vim to system clipboard.](https://twitter.com/statuses/945985044375535616)
