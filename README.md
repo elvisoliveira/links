@@ -114,6 +114,7 @@ Some useful tweets for programmers.
 ## WebGL
 - [How I Built a Wind Map with WebGL.](https://twitter.com/statuses/893062162033364992)
 ## WebPack
+- [Setting up a minimal Node environment with Webpack and Babel { author: @aurelkurtula }.](https://twitter.com/statuses/964455315403149312)
 - [Neutrino combines the power of Webpack with the simplicity of presets.](https://twitter.com/statuses/896733087983435776)
 ## Windows
 - [How to share files between Windows and Linux.](https://twitter.com/statuses/902626385310703619)
