@@ -36,6 +36,7 @@ Some useful tweets for programmers.
 ## Jquery
 - [Why we shouldn't use jQuery anymore ?.](https://twitter.com/statuses/942152606230765568)
 ## Linux
+- [Monitor Linux CPU temperature, frequency, power in a graphical way.](https://twitter.com/statuses/964879900351057922)
 - [Want to list iptable firewall rules on Linux? Try iptables -S iptables -L -v -n #Sysadmin.](https://twitter.com/statuses/955603450175242240)
 - [Learn how to install, setup and create your first container on a CentOS or RHEL 7 server. #linux #sysadmin #devops….](https://twitter.com/statuses/952632054197338112)
 - [SSHTron - Play online multiplayer tron over SSH. Run the following from your Unix/Linux/macOS boxes :) ssh sshtron….](https://twitter.com/statuses/944073745248821249)
@@ -57,6 +58,7 @@ Some useful tweets for programmers.
 ## Regex
 - [(Don't Fear) The Regex: A Practical Introduction to Regular Expressions { author: @hawkinjs }.](https://twitter.com/statuses/926932587515441152)
 ## SQL
+- [mycli: Awesome MySQL/MariaDB mysql client with auto-completion and syntax highlighting.](https://twitter.com/statuses/964990117684408320)
 - [7 Reasons You Should Be Using PostgreSQL 1. Free 2. Easy Setup 3. Powerful ... { author: @lefebvre }.](https://twitter.com/statuses/938370689769377793)
 ## SSH
 - [SSHTron - Play online multiplayer tron over SSH. Run the following from your Unix/Linux/macOS boxes :) ssh sshtron….](https://twitter.com/statuses/944073745248821249)
