@@ -72,6 +72,7 @@ Some useful tweets for programmers.
 ## Tmux
 - [Setting active and inactive pane colours on tmux.](https://twitter.com/statuses/944643702575726592)
 ## Unrelated
+- [If you have been developing software for some time you have probably noticed that there are lots of things that ca….](https://twitter.com/statuses/965247551636168710)
 - [Vi-mode in fish shell on OSX.](https://twitter.com/statuses/956488513469534209)
 - [É possível criar diretórios aninhados de forma rápida e prática pelo terminal. Quer saber como? #DevTips #Terminal….](https://twitter.com/statuses/955832875668115456)
 - [Fixing Chrome 58+ [missing_subjectAltName] with openssl when using self signed certificates.](https://twitter.com/statuses/955779553137512448)
