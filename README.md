@@ -61,6 +61,7 @@ Some useful tweets for programmers.
 - [mycli: Awesome MySQL/MariaDB mysql client with auto-completion and syntax highlighting.](https://twitter.com/statuses/964990117684408320)
 - [7 Reasons You Should Be Using PostgreSQL 1. Free 2. Easy Setup 3. Powerful ... { author: @lefebvre }.](https://twitter.com/statuses/938370689769377793)
 ## SSH
+- [For those complaining about #vi/#vim, I present you Vim over #Android. 😎 Console app: @JuiceSSH @nixcraft.](https://twitter.com/statuses/966334408335790080)
 - [SSHTron - Play online multiplayer tron over SSH. Run the following from your Unix/Linux/macOS boxes :) ssh sshtron….](https://twitter.com/statuses/944073745248821249)
 - [How to copy files from one machine to another using ssh.](https://twitter.com/statuses/937863494648594432)
 ## SVG
@@ -107,6 +108,7 @@ Some useful tweets for programmers.
 - [What is a Microservice? { author: @aditichaudhry92 }.](https://twitter.com/statuses/892732151346712576)
 - [Hardbin: secure encrypted pastebin.](https://twitter.com/statuses/866972459442085889)
 ## Vim
+- [For those complaining about #vi/#vim, I present you Vim over #Android. 😎 Console app: @JuiceSSH @nixcraft.](https://twitter.com/statuses/966334408335790080)
 - [How to paste a column of text to the end of irregular length linesin Vim.](https://twitter.com/statuses/963712372392255488)
 - [Copy selection to OS X system clipboard in Vim.](https://twitter.com/statuses/950364495548944384)
 - [Delete all lines that contain a particular pattern on Vim.](https://twitter.com/statuses/945987218258186245)
